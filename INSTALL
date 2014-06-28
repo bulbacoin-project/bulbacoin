@@ -1,0 +1,9 @@
+Building BulbaCoin
+
+See doc/readme-qt.rst for instructions on building BulbaCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BulbaCoin.
+
+See doc/build-*.txt for instructions on building bulbacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BulbaCoin.
