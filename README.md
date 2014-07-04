@@ -33,7 +33,9 @@ Total coin - 10 362 600 BULB, Premine - 1%, Block time - 40s, retarget every day
 
 Block reward: <br>
 
-block 1-20 = 0 BULB <br>
+block 1 = premine coins <br>
+
+block 2-20 = 0 BULB <br>
 
 block 21-15140 (1 week) = 50 BULB <br>
 
