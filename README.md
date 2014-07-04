@@ -16,8 +16,8 @@ BulbaCoin is released under the terms of the MIT license. See COPYING for more i
 ## Development and contributions
 
 the development team as well as other volunteers can freely work in their own trees , then submit pull requests when they think their feature or bug fix are ready.
-excited about the cyber pyramids project, think you can promote bulbacoin with something special by making a contribution to the bulbacoin community
-developing web wallet - android wallet - block explorer - mining progress visualized as a pyramid shape -  payment services will make egyptians and even people from countries around this region consider it the future currency and start using it on daily basis  . 
+excited about the cyber bulbacoin project, think you can promote bulbacoin with something special by making a contribution to the bulbacoin community
+developing web wallet - android wallet - block explorer - mining progress visualized as a bulba shape. 
 
 if you have any ideas you can offer to the bulbacoin community can help promote bulbacoin Please email us bulbacoin@mining-pool.in
 
