@@ -47,10 +47,10 @@ block 868341-4810339 (5 years) = 1 BULB <br>
 
 ## Ports
 
-RPC Port:  <br>
-P2P Port:  <br>
+RPC Port: 35993 <br>
+P2P Port: 35994 <br>
 
 ## Community
 
-forum: https://bitcointalk.org/index.php?topic=661649.0;topicseen <br>
+forum: https://cryptocointalk.com/topic/12900-bulbacoin-bulb-launched-3-jul-2014/ <br>
 
